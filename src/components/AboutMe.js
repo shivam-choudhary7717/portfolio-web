@@ -13,13 +13,12 @@ const AboutMe = () => {
                 <div className='col-lg-6 col-xm-12'>
                     <h1 className='about-heading'>about me</h1>
                     <p>
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
-                        Hello everyone this is about me !!
+                        My name is shivam choudhary .
+                        I am an experienced Nodejs developer
+                        with impressive front-end
+                        coding skills currently working in Experiom.
+                        Previously Nodejs trainee at
+                        Mobcoder.I am an IT graduate from AKTU with a passion for software engineering and web design. I have a few hobbies like drawing, reading books,playing football etc.
                     </p>
                 </div>
             </div>
