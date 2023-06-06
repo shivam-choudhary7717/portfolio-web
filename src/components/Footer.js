@@ -20,7 +20,7 @@ const Footer = () => {
                             <p>city Moscow Main st 2020 office #223</p>
                         </div>
                         <div className='d-flex'>
-                            <a href='tel:555-555-555'>+7(960)555-5555</a>
+                            <a href='phone'>+7(960)555-5555</a>
                         </div>
                         <div className='d-flex'>
                             <p>shivamchoudhary5602@gmail.com</p>

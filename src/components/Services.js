@@ -14,7 +14,7 @@ const Services = () => {
                             <div className='circle'>
                                 <FontAwesomeIcon className="icons" icon={faDesktop} size='2x' />
                             </div>
-                            <h3>Web Design</h3>
+                            <h3>NodeJs Apps</h3>
                             <p>I approach each project individually and always focus on the result.</p>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Services = () => {
                             <div className='circle'>
                                 <FontAwesomeIcon className="icons" icon={faFacebookF} size='2x' />
                             </div>
-                            <h3>Facebook Ads</h3>
+                            <h3>React Apps</h3>
                             <p>I approach each project individually and always focus on the result.</p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const Services = () => {
                             <div className='circle'>
                                 <FontAwesomeIcon className="icons" icon={faGoogle} size='2x' />
                             </div>
-                            <h3>Google Ads</h3>
+                            <h3>Automation Testing</h3>
                             <p>I approach each project individually and always focus on the result.</p>
                         </div>
                     </div>

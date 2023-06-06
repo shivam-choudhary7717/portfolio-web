@@ -5,7 +5,7 @@ import { useEffect } from "react";
 const Header = () => {
     useEffect(() => {
         const typed = new Typed('.typed-text', {
-            strings: ["Web Design", "Web Development", "Facebook Ads"],
+            strings: ["NodeJs", "ReactJS", "Web development", "Selenium Testing", "Playwright Testing"],
             typeSpeed: 40,
             backSpeed: 60,
             loop: true,
@@ -19,7 +19,7 @@ const Header = () => {
     return (
         <div id="home" className="header-wraper">
             <div className="main-info">
-                <h1>Web development and websites promotions</h1>
+                <h1>Full Stack Developer</h1>
                 <span className='typed-text'></span>
                 <Link
                     smooth={true}
